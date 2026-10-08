@@ -1,0 +1,59 @@
+# Python缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE配置
+.vscode/
+.idea/
+
+# 本地配置
+.env
+.env.*
+*.local
+
+# 日志
+*.log
+
+# 本地数据库
+*.db
+*.sqlite
+*.sqlite3
+
+# 本地/测试数据
+data/local/
+data/private/
+real_data/
+patient_data/
+hospital_data/
+
+# 截图与采集结果
+captures/
+capture/
+截图/
+原始截图/
+
+# OCR字库及缓存
+*.pkl
+*.npz
+
+# 压缩字库/资源包
+*.zip
+
+# 临时输出
+tmp/
+temp/
+output/
+test_output/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Repomix打包文件
+repomix-output*.md
