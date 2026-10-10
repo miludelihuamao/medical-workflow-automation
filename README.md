@@ -1,4 +1,4 @@
-﻿# 自动化临床文书：工作流自动化原型
+<img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/6d74cb32-5d30-4056-943e-f9bb2f97c9db" />﻿# 自动化临床文书：工作流自动化原型
 
 > 一个由临床场景问题出发、采用 AI-assisted coding 完成的个人技术验证项目。探索如何将临床文书中的重复操作拆解为可复用的任务，并通过 OCR、文本处理与工作流编排辅助执行。
 
@@ -203,15 +203,25 @@
 
 
 ## 软件界面
-<img width="902" height="632" alt="image" src="https://github.com/user-attachments/assets/19939f76-8fda-450a-bb46-10373bf7490b" />
-<img width="802" height="532" alt="image" src="https://github.com/user-attachments/assets/8ce0bae7-1145-4309-98ae-3d7841fa5082" />
-<img width="1402" height="832" alt="image" src="https://github.com/user-attachments/assets/5927a8bc-d726-4c23-8389-507fd99c6f59" />
-<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/d4c900c8-8f2c-4a3d-aef3-6649ce92dc21" />
-<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/73c73517-ec94-4b46-9195-39d3891e9fc9" />
-<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/a86c5376-83a8-4e19-85fc-a576821267be" />
-<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/6aaf5ed6-585a-4282-95ed-ce27f66d9eb8" />
-<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/203a3da2-1090-472d-ba75-c6a142102a96" />
-<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/cc2da1f8-a7cc-4e1a-81f4-d90fe025aa09" />
+# 月亮副驾
+<img width="902" height="632" alt="image" src="https://github.com/user-attachments/assets/3834955e-cfa2-499c-96cd-21d962252c39" />
+<img width="902" height="632" alt="image" src="https://github.com/user-attachments/assets/f51feb80-5923-4cf8-9de3-4fe54ab3d218" />
+<img width="1402" height="832" alt="image" src="https://github.com/user-attachments/assets/2f02fb20-7c50-44fa-abe5-4605939119ce" />
+<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/aef835e0-c2d0-4659-b48c-37798a6ccdc9" />
+<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/8796f588-974d-4606-8cbd-6176f694b9a3" />
+<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/dcdb5512-6fff-4424-b991-9f5a44dc8853" />
+<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/afd976dc-d40c-415f-868b-e90e09b2aef9" />
+<img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/6f1c0f4f-4d05-4247-bbaf-e705d759fb70" />
+# JSON路径生成器
+<img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/808a147a-9d39-4503-b66d-3b7262af0ce5" />
+
+<img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/f2a96444-c4c0-4665-8263-4f7cc641e1b2" />
+<img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/a58a8be8-0faa-4c48-a263-4729f89f2fa4" />
+<img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/06e7375b-489c-4849-b1b3-689a062c6ab8" />
+<img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/fe779f37-9e7b-4e24-a1aa-b645836cda58" />
+<img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/b695dd0a-708b-4655-a0d3-19713b04e203" />
+
+
 
 ---
 
@@ -233,8 +243,5 @@ LICENSE
 本项目属于原型性质的软件，不保证在任何环境下正常运行，也不得用于生产环境、真实患者数据处理或临床决策。
 
 作者不对因使用本项目造成的任何直接或间接损失承担责任。
+![Uploading tmpFCAD.png…]()
 
-
-
-
-后续优先工作不是盲目增加功能，而是构建一条基于模拟数据、能够公开演示的最小闭环，明确每一步的输入、输出、异常和人工确认位置，并补充可重复的测试记录。
