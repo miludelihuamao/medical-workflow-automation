@@ -214,7 +214,6 @@
 <img width="802" height="651" alt="image" src="https://github.com/user-attachments/assets/6f1c0f4f-4d05-4247-bbaf-e705d759fb70" />
 # JSON路径生成器
 <img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/808a147a-9d39-4503-b66d-3b7262af0ce5" />
-<img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/6d74cb32-5d30-4056-943e-f9bb2f97c9db" />
 <img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/f2a96444-c4c0-4665-8263-4f7cc641e1b2" />
 <img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/a58a8be8-0faa-4c48-a263-4729f89f2fa4" />
 <img width="1402" height="932" alt="image" src="https://github.com/user-attachments/assets/06e7375b-489c-4849-b1b3-689a062c6ab8" />
